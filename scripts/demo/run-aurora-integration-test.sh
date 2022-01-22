@@ -1,0 +1,1 @@
+pytest tests-trio/p2p-trio/test_aurora.py::test_aurora_walk[100-0.4-0.9-50-True] -o log_cli=true -o log_cli_level=INFO
