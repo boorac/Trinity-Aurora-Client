@@ -26,7 +26,7 @@ Trinity is a client for the Ethereum protocol including the existing 1.0 chain a
 
 ## Documentation
 
-Check out the [documentation on our official website](https://trinity-client.readthedocs.io/en/latest/)
+Check out the [documentation on the official website](https://trinity-client.readthedocs.io/en/latest/) or contact us via the [IoTLab@FER-UNIZG](http://www.iot.fer.hr/index.php/en/)
 
 ## Want to help?
 
